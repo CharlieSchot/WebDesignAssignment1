@@ -1,0 +1,99 @@
+@import url(https://fonts.googleapis.com/css?family=Josefin+Sans);
+
+body{
+    background-color:black;
+    margin: 0 auto;
+    padding: auto;
+    max-width: 1000px;
+    height: 800px;
+    position: relative; top: 0px;
+    font-family: ‘Metrophobic’, Arial, serif;       font-weight: 400;
+	font-size: 15px;
+    color:808080;
+}
+
+.container {
+    margin-right: 40px;
+    margin-left: 40px;
+    padding: 15px;
+    background: #FFFFFF;
+    min-height: 565px;
+    border-radius: 5px;
+}
+    
+
+        
+.navigationbar {
+    margin-top: 10px;
+    margin-right: 35px;
+    margin-left: 35px;
+    margin-bottom: 10px;
+    background: #FFFFFF;
+    padding: 10px;
+    border-radius: 5px;
+}
+
+.navigationbar > ul {
+    margin: 0px; 
+    padding: 0px;
+    list-style: none;
+}
+
+.navigationbar > ul > li {
+    display: inline;
+    
+}
+
+.navigationbar > ul > li > a {
+    text-decoration: none;
+    color:#808000;
+    padding-left: 100px;
+}
+
+.navigationbar > ul > li > a:hover {
+    text-decoration: none;
+    color: #800080;
+}
+
+h1{
+	font-size: 24px;
+    color:floralwhite;
+    padding-left: 430px;
+}
+
+h2{
+    font-size:24px;
+    color: #660066;
+}
+
+.cosplayers-img{
+	position: relative; float:right;
+    padding: auto
+}
+.olaf-img{
+	position: relative; float: right;
+}
+
+.sewing-img{
+	padding-left: 290px;
+}
+
+.party-img{
+	position: relative; top: -450px; left: 230px;
+}
+
+.guidelink
+{
+	list-style: none;
+}
+.sand-img{
+	position: relative; left: 175px; top: 40px;
+}
+
+.boromir-img{
+    position: relative; left: 200px; top: -340px
+}
+
+.links{
+	list-style: none;
+}
